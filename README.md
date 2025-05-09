@@ -46,3 +46,12 @@ streamlit run app.py
 
 ## 📘 License
 MIT
+
+## 📄 requirements.txt
+```
+streamlit
+openai
+python-dotenv
+```
+*You may need to add additional dependencies later, like `langchain` or `faiss` if you expand the project.*
+
